@@ -1,6 +1,6 @@
 # Camunda contributions and learnings
 
-We're a small group of developers exploring the use of Camunda BPM in our organisation.  In the past we have worked a lot with Microsoft technologies but, like Microsoft, that is changing.
+We are a small group of developers exploring the use of Camunda BPM in our organisation.  In the past we have worked a lot with Microsoft technologies but, like Microsoft, that is changing.
 
 We are investigating a couple of areas which may be useful to others in the same position:
 
